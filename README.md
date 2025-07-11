@@ -1,2 +1,4 @@
-# Spotify-Based-Music-Recommender-Using-KMeans-Clustering
- A content-based Spotify music recommender system using KMeans clustering and audio features like energy, danceability, and valence to suggest similar songs.
+# 🎧 SpotCluster: A Spotify-Based Music Recommender Using KMeans Clustering
+
+This project builds an unsupervised, content-based music recommendation system using **Spotify audio features**. It uses **KMeans clustering** to group similar tracks based on acoustic properties and recommends songs from the same cluster.
+
